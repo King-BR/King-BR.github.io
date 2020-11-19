@@ -12,4 +12,4 @@ on:
         - uses: strumwolf/delete-deployment-environment@releases/v1
           with:
             token: ${{ github.token }}
-            environment: my-environment-name
+            environment: yakunosproject

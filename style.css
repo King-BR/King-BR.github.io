@@ -230,9 +230,11 @@ a.nav-link{
 	text-decoration: none;
 }
 
+/*
 .card .work-content:hover{
     color:#202020;
 }
+*/
 
 .card:hover{
 	box-shadow: 0 0 1.5rem gray;

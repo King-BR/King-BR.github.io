@@ -206,14 +206,14 @@ a.nav-link{
 	flex-direction: column;
 	margin: 20px;
 	width: 200px;
-	height: 350px;
+	height: 300px;
 	border-radius:12px;
     	background:var(--main-decor-color);
 }
 
 .card img{
 	width: 100%;
-	height: 60%;
+	height: 70%;
 	border-radius:10px 10px 0px 0px;
 }
 
